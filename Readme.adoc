@@ -1,1 +1,7 @@
-this is read me
+AES-GCM-ENCRYPTION-DECRYPTION 
+
+This kind of modules mainly used for authentication based encryption and decryption.
+
+encrypts the message with auth and later can be decrpted with the private key and authtag.
+
+Mainly used in authentication based encryption and decryption.
