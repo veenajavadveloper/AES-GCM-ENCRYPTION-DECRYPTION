@@ -5,3 +5,11 @@ This kind of modules mainly used for authentication based encryption and decrypt
 encrypts the message with auth and later can be decrpted with the private key and authtag.
 
 Mainly used in authentication based encryption and decryption.
+
+Use AES-GCM instead of CBC whenever possible because AES-GCM provides:
+
+encryption
+
+authentication
+
+integrity
